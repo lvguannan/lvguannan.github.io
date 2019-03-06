@@ -4,7 +4,7 @@ title: "官网"
 author: "Leo"
 categories: zuopin
 tags: [作品]
-image: 2018_zsz/index.jpg
+image: guanwang/index.jpg
 ---
 <div class="masonry">
 	<div class="item">
