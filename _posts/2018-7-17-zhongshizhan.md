@@ -7,7 +7,7 @@ tags: [作品]
 image: 2018_zsz/index.jpg
 ---
 <div class="masonry">
-		<div class="item">
+	<div class="item">
 		<div class="item_content">
 			<img src="{{ site.github.url }}/assets/img/2018_zsz/1130x2700_画板 1 副本.jpg">
 			</div>
@@ -45,11 +45,6 @@ image: 2018_zsz/index.jpg
 	<div class="item">
 		<div class="item_content">
 			<img src="{{ site.github.url }}/assets/img/2018_zsz/4700x2700_画板 1.jpg">
-			</div>
-	</div>
-	<div class="item">
-		<div class="item_content">
-			<img src="{{ site.github.url }}/assets/img/2018_zsz/index.jpg">
 			</div>
 	</div>
 	<div class="item">
